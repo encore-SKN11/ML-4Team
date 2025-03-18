@@ -6,30 +6,12 @@
 
 ## **팀원** 
 
-<table>
-  <tr>
-    <td align="center">
 
-      <b>김상익</b>
-    </td>
-    <td align="center">
+|김상익|김성지|방성일|이선호|정민호|
+|------|------|------|------|------|
 
-      <b>김성지</b>
-    </td>
-    <td align="center">
 
-      <b>방성일</b>
-    </td>
-    <td align="center">
 
-      <b>이선호</b>
-    </td>
-    <td align="center">
-
-      <b>정민호</b>
-    </td>
-  </tr>
-</table>
 
 
 

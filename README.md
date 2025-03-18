@@ -51,6 +51,9 @@
 
 ---
 # 3. 데이터 전처리
+### - X와 y 분리
+![image](https://github.com/user-attachments/assets/79b1ddd1-e5d7-4758-9c9c-59fce1adde61)
+
 ### - XLabel Encoding
 ![image](https://github.com/user-attachments/assets/783a53f6-50fe-497e-ab01-3595b7b62fba)
 
@@ -64,13 +67,15 @@
 ### - Log Transition
 ![image](https://github.com/user-attachments/assets/4f72b1a6-fc7f-48a3-9246-72bdeaefc636)
 
+### - train_test_split
+![image](https://github.com/user-attachments/assets/44cb02ec-1a99-443c-8458-6b2eb03db530)
 
 ---
-# 3. 시각화 
+# 4. 시각화 
 
 
 
 ---
-# 4. 회귀분석, 분류, 결정 트리, 앙상블 
+# 5. 회귀분석, 분류, 결정 트리, 앙상블 
 
 -

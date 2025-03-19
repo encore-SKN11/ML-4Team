@@ -74,6 +74,9 @@
 ---
 # 4. 시각화 
 
+![image](https://github.com/user-attachments/assets/c6e1b226-055d-462f-b77a-091b238c6fb8)
+
+![image](https://github.com/user-attachments/assets/9cc8ff78-0f3e-40fb-82d0-45d99768165b)
 
 
 ---

@@ -86,4 +86,20 @@
 ---
 # 5. 회귀분석, 분류, 결정 트리, 앙상블 
 
+## 학습 진행 과정
+
+### LogisticRegression (Optuna로 최적화)
+<img width="510" alt="스크린샷 2025-03-20 오후 5 05 47" src="https://github.com/user-attachments/assets/09736f0a-14de-4018-a1f4-337084e65c7f" />
+
+### XGBoost (Optuna로 최적화)
+<img width="516" alt="스크린샷 2025-03-20 오후 5 09 52" src="https://github.com/user-attachments/assets/31dfe9b9-ff44-4163-b482-a08869181077" />
+<img width="564" alt="스크린샷 2025-03-20 오후 5 11 47" src="https://github.com/user-attachments/assets/d3ffa0da-8175-46e3-85fc-53adc86d61f7" />
+![image](https://github.com/user-attachments/assets/a3855c26-30c7-4f72-ac0c-4c2fef7a5800)
+
+### Ensemble (LogisticRegression + RandomForest + XGBoost + CatBoost)
+<img width="514" alt="스크린샷 2025-03-20 오후 5 16 16" src="https://github.com/user-attachments/assets/273bc223-be0a-4316-9a6c-047460ebadfb" />
+
+### LightGBM
+
+
 -

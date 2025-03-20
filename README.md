@@ -46,6 +46,8 @@
 
 ![image](https://github.com/user-attachments/assets/98cfc55d-97be-4f1c-b0cc-d1910e451774)
 
+![2](https://github.com/user-attachments/assets/d8293b8b-09cb-417c-85a3-001844256dad)
+
 ![image](https://github.com/user-attachments/assets/21e430d6-b638-47fe-bc8b-6f8f5a077eff)
 
 ![image](https://github.com/user-attachments/assets/07124187-45b7-4837-9244-5673ec398032)
@@ -73,6 +75,7 @@
 
 ---
 # 4. 시각화 
+![1](https://github.com/user-attachments/assets/d2af6119-6bbc-4cf7-bf89-5a0ca94ce034)
 
 ![image](https://github.com/user-attachments/assets/c6e1b226-055d-462f-b77a-091b238c6fb8)
 

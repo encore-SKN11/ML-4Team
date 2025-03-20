@@ -95,37 +95,35 @@
 
 ## 학습 진행 과정
 
-### LogisticRegression (Optuna로 최적화)
+### - LogisticRegression (Optuna로 최적화)
 <img width="510" alt="스크린샷 2025-03-20 오후 5 05 47" src="https://github.com/user-attachments/assets/09736f0a-14de-4018-a1f4-337084e65c7f" />
 
-### XGBoost (Optuna로 최적화)
+### - XGBoost (Optuna로 최적화)
 <img width="516" alt="스크린샷 2025-03-20 오후 5 09 52" src="https://github.com/user-attachments/assets/31dfe9b9-ff44-4163-b482-a08869181077" />
 <img width="564" alt="스크린샷 2025-03-20 오후 5 11 47" src="https://github.com/user-attachments/assets/d3ffa0da-8175-46e3-85fc-53adc86d61f7" />
 <img width="773" alt="image" src="https://github.com/user-attachments/assets/0d10f346-4a7a-4540-919e-0d6dd2457c20" />
 
 
-### Ensemble (LogisticRegression + RandomForest + XGBoost + CatBoost)
+### - Ensemble (LogisticRegression + RandomForest + XGBoost + CatBoost)
 <img width="514" alt="스크린샷 2025-03-20 오후 5 16 16" src="https://github.com/user-attachments/assets/273bc223-be0a-4316-9a6c-047460ebadfb" />
 
-### LightGBM
+### - LightGBM
 
-#### score
+#### - score
 <img width="382" alt="image" src="https://github.com/user-attachments/assets/8ec01ce1-db4c-4bb8-9136-41faf9edf8a2" />
 
-#### Confusion Matrix
+#### - Confusion Matrix
 <img width="385" alt="image" src="https://github.com/user-attachments/assets/cf631a76-e0b7-4c4c-a8bb-8fb72aeb5f0d" />
 
-#### ROC curve
+#### - ROC curve
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/42130023-27cb-4c7e-a2b5-fbbae0690b0c" />
 
-#### Precision-Recall Curve
+#### - Precision-Recall Curve
 <img width="453" alt="image" src="https://github.com/user-attachments/assets/9d4fc6ac-9333-4060-a8f1-71fcb06a8ca0" />
 
-#### feature importance
-<img width="691" alt="image" src="https://github.com/user-attachments/assets/ecbcd4de-c0b0-4e5c-acd0-ab43152d475d" />
-
-#### Logloss
+#### - Logloss
 <img width="520" alt="image" src="https://github.com/user-attachments/assets/441b5038-46a8-404b-9c11-0460256ff1ea" />
 
+#### - feature importance
+<img width="691" alt="image" src="https://github.com/user-attachments/assets/ecbcd4de-c0b0-4e5c-acd0-ab43152d475d" />
 
--

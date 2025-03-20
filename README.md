@@ -34,6 +34,11 @@
 
 ## 🔧 기술 스택
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
 
 
 ---
@@ -78,7 +83,9 @@
 # 4. 시각화 
 ![1](https://github.com/user-attachments/assets/d2af6119-6bbc-4cf7-bf89-5a0ca94ce034)
 
-![image](https://github.com/user-attachments/assets/c6e1b226-055d-462f-b77a-091b238c6fb8)
+
+![image](https://github.com/user-attachments/assets/4bc6a42c-73af-49af-9667-cad1ce4308ee)
+
 
 ![image](https://github.com/user-attachments/assets/9cc8ff78-0f3e-40fb-82d0-45d99768165b)
 
